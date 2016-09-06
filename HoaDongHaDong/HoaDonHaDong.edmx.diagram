@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="d0b275f4b1b04215bade0015cdb95358" Name="Diagram1" ZoomLevel="64">
+        <EntityTypeShape EntityType="HoaDonHaDongModel.Apgia" Width="1.5" PointX="17.75" PointY="8" IsExpanded="true" />
+        <EntityTypeShape EntityType="HoaDonHaDongModel.Captuyen" Width="1.5" PointX="11" PointY="26.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="HoaDonHaDongModel.Chinhanh" Width="1.5" PointX="3" PointY="11.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="HoaDonHaDongModel.Chisonuoctheotuyen" Width="1.5" PointX="17.75" PointY="23.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="HoaDonHaDongModel.Chitietchisonuoctheotuyen" Width="1.5" PointX="20" PointY="17.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="HoaDonHaDongModel.Chitietcongno" Width="1.5" PointX="18" PointY="11.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="HoaDonHaDongModel.Chitiethoadonnuoc" Width="1.5" PointX="15" PointY="11.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="HoaDonHaDongModel.Chucnangchuongtrinh" Width="1.5" PointX="12.75" PointY="29.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="HoaDonHaDongModel.Chucvu" Width="1.5" PointX="5.25" PointY="9" IsExpanded="true" />
+        <EntityTypeShape EntityType="HoaDonHaDongModel.Congno" Width="1.5" PointX="9.75" PointY="11.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="HoaDonHaDongModel.Cumdancu" Width="1.5" PointX="5.25" PointY="14.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="HoaDonHaDongModel.Dangnhap" Width="1.5" PointX="12" PointY="20.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="HoaDonHaDongModel.Donghotong" Width="1.5" PointX="18.5" PointY="26.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="HoaDonHaDongModel.Hangsanxuat" Width="1.5" PointX="16.25" PointY="29.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="HoaDonHaDongModel.Hinhthucthanhtoan" Width="1.5" PointX="15.5" PointY="15.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="HoaDonHaDongModel.Hoadonnuoc" Width="1.5" PointX="12.75" PointY="11.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="HoaDonHaDongModel.Khachhang" Width="1.5" PointX="17.75" PointY="15" IsExpanded="true" />
+        <EntityTypeShape EntityType="HoaDonHaDongModel.Kiemdinh" Width="1.5" PointX="20.75" PointY="27.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="HoaDonHaDongModel.Lichsusudungct" Width="1.5" PointX="15" PointY="20.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="HoaDonHaDongModel.Loaiapgia" Width="1.5" PointX="15.5" PointY="8.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="HoaDonHaDongModel.Loaidongho" Width="1.5" PointX="16.25" PointY="31.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="HoaDonHaDongModel.LoaiKH" Width="1.5" PointX="15.5" PointY="23.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="HoaDonHaDongModel.Loaikiemdinh" Width="1.5" PointX="18.5" PointY="31.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="HoaDonHaDongModel.Nguoidung" Width="1.5" PointX="9.75" PointY="20.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="HoaDonHaDongModel.Nhanvien" Width="1.5" PointX="7.5" PointY="11.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="HoaDonHaDongModel.Nhomchucnang" Width="1.5" PointX="10.5" PointY="29.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="HoaDonHaDongModel.Phongban" Width="1.5" PointX="5.25" PointY="11.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="HoaDonHaDongModel.Phuongxa" Width="1.5" PointX="3" PointY="14.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="HoaDonHaDongModel.Quanhuyen" Width="1.5" PointX="0.75" PointY="13.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="HoaDonHaDongModel.Quyen" Width="1.5" PointX="15" PointY="34.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="HoaDonHaDongModel.sysdiagram" Width="1.5" PointX="0.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="HoaDonHaDongModel.To" Width="1.5" PointX="8.25" PointY="16.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="HoaDonHaDongModel.Tuyenkhachhang" Width="1.5" PointX="10.5" PointY="15.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="HoaDonHaDongModel.Tuyenong" Width="1.5" PointX="13.25" PointY="26.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="HoaDonHaDongModel.Tuyenongkythuat" Width="1.5" PointX="15.5" PointY="26.5" IsExpanded="true" />
+        <AssociationConnector Association="HoaDonHaDongModel.FK_Apgia_Loaiapgia" ManuallyRouted="false" />
+        <AssociationConnector Association="HoaDonHaDongModel.FK_Tuyenong_Captuyen" ManuallyRouted="false" />
+        <AssociationConnector Association="HoaDonHaDongModel.FK_Chinhanh_Quanhuyen" ManuallyRouted="false" />
+        <AssociationConnector Association="HoaDonHaDongModel.FK_Phongban_Chinhanh" ManuallyRouted="false" />
+        <AssociationConnector Association="HoaDonHaDongModel.FK_To_Chinhanh" ManuallyRouted="false" />
+        <AssociationConnector Association="HoaDonHaDongModel.FK_Chitietchisonuoctheotuyen_Chisonuoctheotuyen" ManuallyRouted="false" />
+        <AssociationConnector Association="HoaDonHaDongModel.FK_Chitietchisonuoctheotuyen_Khachhang" ManuallyRouted="false" />
+        <AssociationConnector Association="HoaDonHaDongModel.FK_Chitietcongno_Congno" ManuallyRouted="false" />
+        <AssociationConnector Association="HoaDonHaDongModel.FK_Chitietcongno_Hoadonnuoc" ManuallyRouted="false" />
+        <AssociationConnector Association="HoaDonHaDongModel.FK_Chitiethoadonnuoc_Hoadonnuoc" ManuallyRouted="false" />
+        <AssociationConnector Association="HoaDonHaDongModel.FK_Chucnangchuongtrinh_Nhomchucnang" ManuallyRouted="false" />
+        <AssociationConnector Association="HoaDonHaDongModel.FK_Lichsusudungct_Chucnangchuongtrinh" ManuallyRouted="false" />
+        <AssociationConnector Association="HoaDonHaDongModel.FK_Quyen_Chucnangchuongtrinh" ManuallyRouted="false" />
+        <AssociationConnector Association="HoaDonHaDongModel.FK_Nhanvien_Chucvu" ManuallyRouted="false" />
+        <AssociationConnector Association="HoaDonHaDongModel.FK_Congno_Khachhang" ManuallyRouted="false" />
+        <AssociationConnector Association="HoaDonHaDongModel.FK_Congno_Nhanvien" ManuallyRouted="false" />
+        <AssociationConnector Association="HoaDonHaDongModel.FK_Cumdancu_Phuongxa" ManuallyRouted="false" />
+        <AssociationConnector Association="HoaDonHaDongModel.FK_Khachhang_Cumdancu" ManuallyRouted="false" />
+        <AssociationConnector Association="HoaDonHaDongModel.FK_Tuyenkhachhang_Cumdancu" ManuallyRouted="false" />
+        <AssociationConnector Association="HoaDonHaDongModel.FK_Dangnhap_Nguoidung" ManuallyRouted="false" />
+        <AssociationConnector Association="HoaDonHaDongModel.FK_Donghotong_Hangsanxuat" ManuallyRouted="false" />
+        <AssociationConnector Association="HoaDonHaDongModel.FK_Donghotong_Loaidongho" ManuallyRouted="false" />
+        <AssociationConnector Association="HoaDonHaDongModel.FK_Donghotong_Tuyenong" ManuallyRouted="false" />
+        <AssociationConnector Association="HoaDonHaDongModel.FK_Kiemdinh_Donghotong" ManuallyRouted="false" />
+        <AssociationConnector Association="HoaDonHaDongModel.FK_Khachhang_Hinhthucthanhtoan" ManuallyRouted="false" />
+        <AssociationConnector Association="HoaDonHaDongModel.FK_Hoadonnuoc_Khachhang" ManuallyRouted="false" />
+        <AssociationConnector Association="HoaDonHaDongModel.FK_Hoadonnuoc_Nhanvien" ManuallyRouted="false" />
+        <AssociationConnector Association="HoaDonHaDongModel.FK_Khachhang_Loaiapgia" ManuallyRouted="false" />
+        <AssociationConnector Association="HoaDonHaDongModel.FK_Khachhang_LoaiKH" ManuallyRouted="false" />
+        <AssociationConnector Association="HoaDonHaDongModel.FK_Khachhang_Phuongxa" ManuallyRouted="false" />
+        <AssociationConnector Association="HoaDonHaDongModel.FK_Khachhang_Quanhuyen" ManuallyRouted="false" />
+        <AssociationConnector Association="HoaDonHaDongModel.FK_Khachhang_Tuyenkhachhang" ManuallyRouted="false" />
+        <AssociationConnector Association="HoaDonHaDongModel.FK_Khachhang_Tuyenongkythuat" ManuallyRouted="false" />
+        <AssociationConnector Association="HoaDonHaDongModel.FK_Kiemdinh_Loaikiemdinh" ManuallyRouted="false" />
+        <AssociationConnector Association="HoaDonHaDongModel.FK_Lichsusudungct_Nguoidung" ManuallyRouted="false" />
+        <AssociationConnector Association="HoaDonHaDongModel.FK_Nguoidung_Nhanvien" ManuallyRouted="false" />
+        <AssociationConnector Association="HoaDonHaDongModel.FK_Nhanvien_Phongban" ManuallyRouted="false" />
+        <AssociationConnector Association="HoaDonHaDongModel.FK_Phuongxa_Quanhuyen" ManuallyRouted="false" />
+        <AssociationConnector Association="HoaDonHaDongModel.FK_To_Phuongxa" ManuallyRouted="false" />
+        <AssociationConnector Association="HoaDonHaDongModel.FK_Tuyenkhachhang_To" ManuallyRouted="false" />
+        <AssociationConnector Association="HoaDonHaDongModel.FK_Tuyenongkythuat_Tuyenong" ManuallyRouted="false" />
+        <EntityTypeShape EntityType="HoaDonHaDongModel.Quyencuanguoidung" Width="1.5" PointX="21.25" PointY="30.75" />
+        <AssociationConnector Association="HoaDonHaDongModel.FK_Quyencuanguoidung_Nguoidung" />
+        <AssociationConnector Association="HoaDonHaDongModel.FK_Quyencuanguoidung_Quyen" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
